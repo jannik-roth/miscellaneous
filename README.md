@@ -11,3 +11,7 @@
 ## Approx
 
  - `pade.py` and `pade_example.ipynb` funciton to create the Pade approximation using sympy
+
+## Decorators
+
+ - `MyTiming.py` decorator to time any function, useful for benchmarking
